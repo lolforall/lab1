@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/insane/Programming/Projects/Study/Cpp/lab1task2/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -o CMakeFiles/date.dir/date.cpp.o -c /Users/insane/Programming/Projects/Study/Cpp/lab1task2/date.cpp",
+  "file": "/Users/insane/Programming/Projects/Study/Cpp/lab1task2/date.cpp",
+  "output": "CMakeFiles/date.dir/date.cpp.o"
+},
+{
+  "directory": "/Users/insane/Programming/Projects/Study/Cpp/lab1task2/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -o CMakeFiles/bank.dir/bank.cpp.o -c /Users/insane/Programming/Projects/Study/Cpp/lab1task2/bank.cpp",
+  "file": "/Users/insane/Programming/Projects/Study/Cpp/lab1task2/bank.cpp",
+  "output": "CMakeFiles/bank.dir/bank.cpp.o"
+},
+{
+  "directory": "/Users/insane/Programming/Projects/Study/Cpp/lab1task2/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -o CMakeFiles/rectangle.dir/rectangle.cpp.o -c /Users/insane/Programming/Projects/Study/Cpp/lab1task2/rectangle.cpp",
+  "file": "/Users/insane/Programming/Projects/Study/Cpp/lab1task2/rectangle.cpp",
+  "output": "CMakeFiles/rectangle.dir/rectangle.cpp.o"
+}
+]
